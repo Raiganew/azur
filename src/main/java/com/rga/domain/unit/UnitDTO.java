@@ -17,4 +17,5 @@ public class UnitDTO {
     private String faction;
     private List<Abilitie> abilities;
     private List<GearDTO> gear;
+    private StatsDTO stats;
 }
